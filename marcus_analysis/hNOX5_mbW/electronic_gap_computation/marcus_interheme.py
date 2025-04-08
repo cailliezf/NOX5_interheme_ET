@@ -247,7 +247,7 @@ if (showplot):
 #%% 
 # Keep the values of Free energy
 try:
-    with open(f'deltaG_sun_mb1_{xmin}-{xmax2}.pkl', 'rb') as fichier:
+    with open(f'deltaG_hNOX5_mbW_{xmin}-{xmax2}.pkl', 'rb') as fichier:
         deltaG = pickle.load(fichier)
         deltaG_error = pickle.load(fichier)
 except FileNotFoundError:
@@ -307,7 +307,7 @@ if contr == "Heme":
 
 
     
-with open(f'deltaG_sun_mb1_{xmin}-{xmax2}.pkl', 'wb') as fichier:
+with open(f'deltaG_hNOX5_mbW_{xmin}-{xmax2}.pkl', 'wb') as fichier:
     pickle.dump(deltaG, fichier)
     pickle.dump(deltaG_error, fichier)
 
