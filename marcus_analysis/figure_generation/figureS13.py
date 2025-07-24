@@ -340,5 +340,5 @@ ax = plt.gca()
 for spine in ax.spines.values():
     spine.set_linewidth(1.5)
 ax.tick_params(width=1.5, length=8) 
-fname = 'FigureS11.tiff'
+fname = 'FigureS13.tiff'
 plt.savefig(fname, format="tiff", dpi=300)
