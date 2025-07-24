@@ -62,7 +62,7 @@ filenames_lipids = [
     '../csNOX5_mbW/data/replicas/600ns/lipid_distances2D_csNOX5_mbW_st2_D.pkl',
 ]
 colors = ['red', 'red', 'orangered', 'orangered', 'firebrick', 'firebrick', 'crimson', 'crimson', 'lightcoral', 'lightcoral'] # csNOX5 mbW
-fname = 'FigureS12A.tiff'
+fname = 'FigureS14A.tiff'
 
 
 
@@ -107,7 +107,7 @@ fname = 'FigureS12A.tiff'
 #    '../csNOX5_mbH/data/replicas/600ns/lipid_distances2D_csNOX5_mbH_st2_D.pkl',
 #]
 #colors = ['orange', 'orange', 'peru', 'peru', 'coral', 'coral', 'orangered', 'orangered', 'lightsalmon', 'lightsalmon'] # csNOX5 mbH
-#fname = 'FigureS12B.tiff'
+#fname = 'FigureS14B.tiff'
 
 
 
@@ -152,7 +152,7 @@ fname = 'FigureS12A.tiff'
 #    '../hNOX5_mbW/data/replicas/600ns/lipid_distances2D_hNOX5_mbW_st2_D.pkl',
 #]
 #colors = ['blue', 'blue', 'royalblue', 'royalblue', 'navy', 'navy', 'skyblue', 'skyblue', 'lightblue', 'lightblue'] # hNOX5 mbW
-#fname = 'FigureS12C.tiff'
+#fname = 'FigureS14C.tiff'
 
 
 
@@ -197,7 +197,7 @@ fname = 'FigureS12A.tiff'
 #    '../hNOX5_mbH/data/replicas/600ns/lipid_distances2D_hNOX5_mbH_st2_D.pkl',
 #]
 #colors = ['purple', 'purple', 'indigo', 'indigo', 'blueviolet', 'blueviolet', 'mediumorchid', 'mediumorchid', 'lavender', 'lavender'] # hNOX5 mbH
-#fname = 'FigureS12D.tiff'
+#fname = 'FigureS14D.tiff'
 
 
 markers = ['s', 's', '*', '*', 'o', 'o', 'P', 'P', 'v', 'v']  
